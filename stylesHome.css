@@ -27,7 +27,7 @@ strong {
 }
 
 h1 {
-  font-size: 50px;
+  font-size: 45px;
 }
 
 h2 {
@@ -36,8 +36,13 @@ h2 {
 }
 
 a {
+  text-decoration: none;
+}
+
+.link {
   color: #e81c4f;
 }
+
 /*
 .links {
   display: flex;
